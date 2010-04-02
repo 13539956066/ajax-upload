@@ -159,7 +159,8 @@
 	        left : box.left + 'px',
 	        top : box.top + 'px',
 	        width : from.offsetWidth + 'px',
-	        height : from.offsetHeight + 'px'
+	        height : from.offsetHeight + 'px',
+	        "z-index": "9999"
 	    });        
     }
 
